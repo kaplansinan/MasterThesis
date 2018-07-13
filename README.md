@@ -1,6 +1,4 @@
 # MasterThesis
-# CNN_Fish-Detection-Classification
-
 
 ## Synopsis
 
