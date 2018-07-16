@@ -23,6 +23,7 @@ The implementation of LeNet and AlexNet based CNN architecture for given problem
 ![VAEImages](figures/vae_shuffle.png)
 ### EyePACS similarity analysis
 similarity matrix goes here
+![VAEImages](figures/thesis_1.pdf)
 ### Histogram Analysis
 
 
