@@ -22,8 +22,16 @@ The implementation of LeNet and AlexNet based CNN architecture for given problem
 ### Generated VAE Images
 ![VAEImages](figures/vae_shuffle.png)
 ### EyePACS similarity analysis
-similarity matrix goes here
-![VAEImages](figures/thesis_1.pdf)
+* Entropy
+![VAEImages](figures/thesis_1-1.png)
+* Skewness
+![VAEImages](figures/thesis_2-1.png)
+* Kurtosis
+![VAEImages](figures/thesis_3-1.png)
+* Variance
+![VAEImages](figures/thesis_4-1.png)
+* Mean
+![VAEImages](figures/thesis_5-1.png)
 ### Histogram Analysis
 
 
