@@ -2,9 +2,9 @@
 
 ## Synopsis
 
-The files presented here are as part of the my master thesis conducted at [Lappeenranta Univeristy of Technology, Finland](https://www.lut.fi/).
+The files presented here are as part of my master thesis conducted at [Lappeenranta Univeristy of Technology, Finland](https://www.lut.fi/).
 
-The thesis can be found [here](http://www.doria.fi/handle/10024/143329). The figures presented here are explained in more details in the thesis. Please check the thesis for more detailed and relevant information. 
+The thesis can be found [here](http://www.doria.fi/handle/10024/143329). The figures presented below here are explained in more details in the thesis. Please check the thesis for more detailed and relevant information. 
 
 ## Motivation
 
