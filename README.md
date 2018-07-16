@@ -33,10 +33,11 @@ The implementation of LeNet and AlexNet based CNN architecture for given problem
 * Mean
 ![VAEImages](figures/thesis_5-1.png)
 ### Histogram Analysis
+* Histogram Analysis of Generated Retinal Images
+![VAEImages](figures/thesis_6-1.png)
 
-
-histogram figures go here
-
+* Histogram Analysis of EyePACS set
+![VAEImages](figures/thesis_7-1.png)
 
 
 ## Documentation
