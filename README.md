@@ -2,24 +2,30 @@
 
 ## Synopsis
 
-The project is done as part of Advanced Methods in Intelligent Computing course at Lappeenranta University of Technolgoy Lappeenranta, Finland. The goal of the stuyd is to apply Convolutional Neural Networks for detection and classification of fishes from low-quality videos.
+The files presented here are as part of the my master thesis conducted at [Lappeenranta Univeristy of Technology, Finland](https://www.lut.fi/).
+
+The thesis can be found [here](http://www.doria.fi/handle/10024/143329). The figures presented here are explained in more details in the thesis. Please check the thesis for more detailed and relevant information. 
 
 ## Motivation
 
-The rising level of environmental issues across the world leads researchers to understand the core of the problems and develop solutions for those issues. Extinction of some fish species is one of those important issues. One way to solve this problem for a particular area could be by simply observing fishes in this area. 
+Retinal images have been increasingly important in clinical diagnostics of several eye and systemic diseases. To help the medical
+doctors in this work, automated diagnosis methods can be used to increase the efficiency of diagnostics processes and follow-up as
+well as enable wider screening programs. However, the training of advanced machine learning methods for improved retinal image
+analysis require large and representative retinal image datasets. While large datasets of retinal images are available, the accompanying
+diagnostic information is generally image-wise, which limits the training and evaluation of generative models. One approach
+to this issue is studying the possibility of generating sufficiently realistic synthetic data with known characteristics. 
 
-## Data 
-
-The data files are provided under **data** file. Only the frames extracted from videos are provided under this folder.
 
 ## Code 
 
-The implementation of LeNet and AlexNet based CNN architecture for given problem can be found under **src** file. Keras deep learning library is used to implement the architecture. 
+The code used to generate retinal images will be available here after the paper accepted to be published. 
 
 ## Graphical Results
 ### Generate GAN Images
+Samplea of generated retinal images by GANs.
 ![GANImages](figures/generated_gan_shuffle.png)
 ### Generated VAE Images
+Samples of generated retinal images by VAEs.
 ![VAEImages](figures/vae_shuffle.png)
 ### EyePACS similarity analysis
 * Entropy
@@ -40,14 +46,6 @@ The implementation of LeNet and AlexNet based CNN architecture for given problem
 ![VAEImages](figures/thesis_7-1.png)
 
 
-## Documentation
-
-The problem with the solution is explained by giving detailed literature review of Convolutional Neural Netwroks related  in **Report.pdf**  under **doc** file.
-
-
-## Tests
-
-To able to run the code by yourself, you need to have Python environment with included libraries. After installing the all dependencies, All you need to do is to run the IPyhton Notebook. 
 
 
 ## Contributors
