@@ -24,8 +24,8 @@ images goes here
 ### EyePACS similarity analysis
 similarity matrix goes here
 ### Histogram Analysis
-[embed]figures/thesis_6.pdf[/embed]
-![Image of Yaktocat](figures/thesis_1.pdf)
+
+![Image of Yaktocat](figures/generated_gan_shuffle.png)
 histogram figures go here
 
 
