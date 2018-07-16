@@ -18,14 +18,14 @@ The implementation of LeNet and AlexNet based CNN architecture for given problem
 
 ## Graphical Results
 ### Generate GAN Images
-images here
+![GANImages](figures/generated_gan_shuffle.png)
 ### Generated VAE Images
-images goes here
+![VAEImages](figures/vae_shuffle.png)
 ### EyePACS similarity analysis
 similarity matrix goes here
 ### Histogram Analysis
 
-![Image of Yaktocat](figures/generated_gan_shuffle.png)
+
 histogram figures go here
 
 
