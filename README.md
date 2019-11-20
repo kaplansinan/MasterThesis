@@ -18,7 +18,7 @@ to this issue is studying the possibility of generating sufficiently realistic s
 
 ## Code 
 
-The code used to generate retinal images will be available here after the paper accepted to be published. 
+Source code is available under **src** directory.
 
 ## Graphical Results
 ### Generate GAN Images
