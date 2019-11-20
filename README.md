@@ -50,6 +50,7 @@ Samples of generated retinal images by VAEs.
 
 ## Contributors
 1. [Sinan Kaplan](https://www.linkedin.com/in/kaplansinan/)
+2. [Lasse Lensu](https://personal.lut.fi/users/lasse.lensu/)
 
 ## License
 
